@@ -1,0 +1,9 @@
+
+
+ubuntu系统下使用命令
+
+bash <(curl -L -s https://install.direct/go.sh)
+命令执行完之后，会自动生成如下文件：
+
+/usr/bin/v2ray/v2ray：V2Ray 程序；
+/etc/v2ray/config.json：配置文件；
